@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/easy-cv/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/easy-cv/static/js/main.9b2d6c9d.chunk.js",
+    "main.js.map": "/easy-cv/static/js/main.9b2d6c9d.chunk.js.map",
+    "runtime-main.js": "/easy-cv/static/js/runtime-main.2e463af9.js",
+    "runtime-main.js.map": "/easy-cv/static/js/runtime-main.2e463af9.js.map",
+    "static/js/2.11e25ec3.chunk.js": "/easy-cv/static/js/2.11e25ec3.chunk.js",
+    "static/js/2.11e25ec3.chunk.js.map": "/easy-cv/static/js/2.11e25ec3.chunk.js.map",
+    "static/js/3.98275b83.chunk.js": "/easy-cv/static/js/3.98275b83.chunk.js",
+    "static/js/3.98275b83.chunk.js.map": "/easy-cv/static/js/3.98275b83.chunk.js.map",
+    "index.html": "/easy-cv/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/easy-cv/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.11e25ec3.chunk.js.LICENSE.txt": "/easy-cv/static/js/2.11e25ec3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/easy-cv/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e463af9.js",
+    "static/js/2.11e25ec3.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.9b2d6c9d.chunk.js"
+  ]
+}
